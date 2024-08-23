@@ -8,4 +8,4 @@
 - www.linkedin.com/in/soumya-mohan-970381254   
 - 😄 Pronouns: she/Her
   
-
+I have a technical background and hold a Master of Science (M.S.) degree in Data Science (2023)from Northumbria University,London.
