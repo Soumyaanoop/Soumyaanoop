@@ -1,5 +1,5 @@
 
-# Soumya Mohan - Data Analyst Portfolio
+# Soumya Mohan - Data Engineer Portfolio
 
 - 👋 Hi,I am Soumya Mohan 
 - 👀 I’m interested in data Analysis/Scientist/ML
