@@ -25,7 +25,7 @@ I am eager to apply my analytical skills and academic knowledge to contribute to
 
 ## My Projects
 
-### Health insurance cost prediction
+### Health insurance cost prediction | Using Machine Learning Regression Algorithms
 Health insurance premiums vary widely from person to person due to multiple factors such as age, gender, lifestyle habits,health condition, and geographic location. Accurately predicting these premiums is critical for insurance firms to establish reasonable and competitive rates and for clients to fully understand the factors influencing their expenses and make appropriate plans. 
 
 link : https://github.com/Soumyaanoop/Health_insurance_cost_predictions_Machine_Learning_project
