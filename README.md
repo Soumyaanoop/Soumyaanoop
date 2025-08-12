@@ -28,7 +28,7 @@ I am eager to apply my analytical skills and academic knowledge to contribute to
 ### Health insurance cost prediction
 Health insurance premiums vary widely from person to person due to multiple factors such as age, gender, lifestyle habits,health condition, and geographic location. Accurately predicting these premiums is critical for insurance firms to establish reasonable and competitive rates and for clients to fully understand the factors influencing their expenses and make appropriate plans. 
 
-Link : https://github.com/Soumyaanoop/Health_insurance_cost_predictions_Machine_Learning_project
+link : https://github.com/Soumyaanoop/Health_insurance_cost_predictions_Machine_Learning_project
 
 ### Credit Card Complaints Analysis
 This project showcases a dashboard of credit card complaints in different companies. In this project give insights about which company got highest number of complaints, category of issues, how long it takes to solve the complaint. This dashboard lets the companies know the issues and they can improve their services by identifying these issues.
