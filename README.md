@@ -1,27 +1,39 @@
 
-# Soumya Mohan - Data Engineer Portfolio
+# Soumya Mohan - Machine Learning Engineer Portfolio
 
 - 👋 Hi,I am Soumya Mohan 
-- 👀 I’m interested in Data Scientist/ML role
+- 👀 I’m interested in AI/ML role
 - 🌱 I’m working as an associate ML engineer
-- 💞️ I’m looking to collaborate on ML projects
+- 💞️ I’m looking to collaborate on AI/ML projects
 -    www.linkedin.com/in/soumya-mohan-970381254   
 - 😄 Pronouns: she/Her
 
-I have a technical background and hold a Master of Science (M.S.) degree in Data Science (2023)from Northumbria University,London.
-I am eager to apply my analytical skills and academic knowledge to contribute to your dynamic team.
+I have a technical background and hold a Master of Science (M.S.) degree in Data Science (2023)from Northumbria University,London. I am working as an Associate Machine Learning Engineer, where I contribute to the design, development, and deployment of machine learning solutions to solve business problems. I collaborate with cross-functional teams to build scalable ML models, process data, and improve model performance.
+#### Responsibilities:
+- Design, develop, and train machine learning models for business applications.
+- Collect, clean, preprocess, and analyze data from multiple sources.
+- Perform feature engineering and model optimization to improve performance.
+- Deploy and monitor machine learning models in production environments.
+- Build and maintain data pipelines for model training and inference.
+- Collaborate with data scientists, software engineers, and business stakeholders to deliver AI-driven solutions.
+- Evaluate model performance using appropriate metrics and continuously improve model accuracy.
+- Develop scripts and automation tools using Python and machine learning frameworks.
+- Document model development processes, experiments, and technical solutions.
 
  ### Skills:
+- Programming Languages: Python, SQL
+- Machine Learning: Supervised Learning, Unsupervised Learning, Model Training, Feature Engineering, Model Evaluation
+- Deep Learning: TensorFlow, PyTorch, Keras
+- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn
+- Data Processing: Data Cleaning, Data Preprocessing, ETL Pipelines
+- Generative AI: Large Language Models (LLMs), Prompt Engineering, Retrieval-Augmented Generation (RAG)
+- NLP: Text Classification, Sentiment Analysis, Named Entity Recognition (NER)
+- MLOps: Model Deployment, Model Monitoring, ML Pipelines
+- Cloud Platforms: AWS
+- Version Control: Git, GitHub
+- Tools & Frameworks: Scikit-learn, Jupyter Notebook, VS Code, Docker
+- Soft Skills: Problem Solving, Analytical Thinking, Team Collaboration, Communication, Time Management
  
- - Proficient in data analysis techniques, including data cleaning, statistical analysis, and data visualization using tools like power BI and Tableau. Knowledge of Pandas, 
-   NumPy and Matplotlib. Also the knowledge of MS Excel like VLookup, HLookup, XLookup, Pivot Table and Pivot chart.
-- Solid understanding of programming languages such as Python and SQL, with the ability to query databases and extract meaningful insights.
-- Meticulous in reviewing and validating data, ensuring accuracy and reliability in analysis results.
-- Proven ability to approach problems logically and derive effective solutions by leveraging analytical and critical thinking skills.
-- Adept at working collaboratively with cross-functional teams, communicating complex technical concepts in a clear and concise manner.
-- Especially in relation to training dataset weaknesses and DS model scoring. Excellent knowledge in Mode, Median and Mean, range, Variance and Standard deviation, 
-                         Matrix and Frequency Table, Basics of Regression, Normal Distribution, Binomial Distribution & Poisson Distribution, Sample and Sampling Distribution.
-
 
 ## My Projects
 
